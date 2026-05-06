@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1777996189 source:/home/fish/cpp/raylibpractice/main.cpp
+	"raylib.h"
+
